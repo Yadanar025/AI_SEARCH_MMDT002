@@ -12,6 +12,7 @@
 ## Student Information 
 - **Name:** Khin Yadanar Aung
 - **MMDT ID:** MMDT002
+- **Telegram:** Yadanar
 
 ---
 
@@ -40,8 +41,8 @@
 ---
 
 ## Section 4: Deployed and Presentation Information
-- **Deployment Platform:** [Write your deployment platform here, e.g., Render]
-- **Live Deployment URL:** [Provide your live deployment site URL here]
+- **Deployment Platform:** Render
+- **Live Deployment URL:** https://ai-search-mmdt002.onrender.com
 - **Video Presentation Link:** [Provide an accessible link to your 5–7 minute video presentation]
 
 ---
