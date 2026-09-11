@@ -10,31 +10,32 @@
 ---
 
 ## Student Information 
-- **Name:** [Write your Name here]
-- **MMDT ID:** [Write your MMDT ID here]
+- **Name:** Khin Yadanar Aung
+- **MMDT ID:** MMDT002
 
 ---
 
 ## Section 1: Selected City Region
-- **Selected Region:** [Write your selected region here (must be one of: Myanmar or Thailand)]
+- **Selected Region:** Myanmar
 
 ---
 
 ## Section 2: Map Graph Configuration
-- **Total Cities Configured:** [Write total number of cities here, must be 20 or more]
-- **Total Connection Edges:** [Write total number of highway connection edges here]
-- **Graph Fully Connected:** [Write Yes or No here]
+- **Total Cities Configured:**  Yangon, Mandalay, Magway, Bago, Pyay, Taungoo, Naypyidaw, Meiktila, Pyin Oo Lwin, Hinthada, Yamethin, Pyawbwe, Tatkone, Myingyan, Bagan, Pakokku, Taungtha, Zeyawaddy, Phyu, Kyaukpadaung, Yesagyo,  Monywa, Taunggyi, Kyaikto, Hpa-An, Thaton and Kyaukse
+
+- **Total Connection Edges:** 33 edges
+- **Graph Fully Connected:** Yes
 
 ---
 
 ## Section 3: Local Verification & Search Algorithms
 *Check the algorithms you successfully ran and verified on your local development server by placing an `x` in the brackets (e.g., `[x]`):*
-- [ ] Breadth-First Search (BFS)
-- [ ] Depth-First Search (DFS)
-- [ ] Uniform Cost Search (UCS)
-- [ ] Iterative Deepening Search (IDS)
-- [ ] Greedy Best-First Search (Greedy)
-- [ ] A* Search (A*)
+- [x] Breadth-First Search (BFS)
+- [x] Depth-First Search (DFS)
+- [x] Uniform Cost Search (UCS)
+- [x] Iterative Deepening Search (IDS)
+- [x] Greedy Best-First Search (Greedy)
+- [x] A* Search (A*)
 
 ---
 
