@@ -22,7 +22,7 @@
 ---
 
 ## Section 2: Map Graph Configuration
-- **Total Cities Configured:**  Yangon, Mandalay, Magway, Bago, Pyay, Taungoo, Naypyidaw, Meiktila, Pyin Oo Lwin, Hinthada, Yamethin, Pyawbwe, Tatkone, Myingyan, Bagan, Pakokku, Taungtha, Zeyawaddy, Phyu, Kyaukpadaung, Yesagyo,  Monywa, Taunggyi, Kyaikto, Hpa-An, Thaton and Kyaukse
+- **Total Cities Configured:** 26 cities :  Yangon, Mandalay, Magway, Bago, Pyay, Taungoo, Naypyidaw, Meiktila, Pyin Oo Lwin, Hinthada, Yamethin, Pyawbwe, Tatkone, Myingyan, Bagan, Pakokku, Taungtha, Zeyawaddy, Phyu, Kyaukpadaung, Yesagyo,  Monywa, Taunggyi, Kyaikto, Hpa-An, Thaton and Kyaukse
 
 - **Total Connection Edges:** 33 edges
 - **Graph Fully Connected:** Yes
@@ -43,13 +43,13 @@
 ## Section 4: Deployed and Presentation Information
 - **Deployment Platform:** Render
 - **Live Deployment URL:** https://ai-search-mmdt002.onrender.com
-- **Video Presentation Link:** [Provide an accessible link to your 5–7 minute video presentation]
+- **Video Presentation Link:** https://drive.google.com/file/d/1ga6QTlD4ZZp1hAPt32Trt5UoMZaA3-PE/view?usp=drive_link
 
 ---
 
 ## Section 5: Discussion
 *Provide your written analysis for each point by replacing the bracket placeholders below:*
 - **Which search algorithm is best for this route finding problem?** 
-    [Write your answer here]
+    A* search is the best for this route finding problem if the main objective is the shortest distance.
 - **Link the idea of search algorithm to today Generative AI.** 
-    [Write your answer here]
+    Linking with Generative AI with search algorithms in my opinion is that we can use the idea of determining the route in AI which is also finding the path to solve problem such as thinking the best move for the chess game or navigation in GPS. There can be many routes to have the answer. Using the most relevant search algorithm we can have the most efficient path.
